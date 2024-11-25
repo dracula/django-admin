@@ -12,11 +12,13 @@
 ## Install
 
 ### Install the dracula theme
+
 ```bash
 pip install django-admin-dracula
 ```
 
 ### Add to Django project
+
 Add `django_admin_dracula` to your `INSTALLED_APPS` **before** `django.contrib.admin`:
 
 ```python
@@ -30,6 +32,7 @@ INSTALLED_APPS = [
 ```
 
 ### Celebrate ✨
+
 Put on your favorite dracula cape and dump all your remaining garlic! 🧄
 
 ## Themes
@@ -41,8 +44,8 @@ Check out some more screenshots of the light and dark themes [here](https://gith
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
 | [![Sangeeta Jadoonanan](https://github.com/sjbitcode.png?size=100)](https://github.com/sjbitcode) |
-| ---------------------------------------------------------------------------------------- |
-| [Sangeeta Jadoonanan](https://github.com/sjbitcode) |
+| ------------------------------------------------------------------------------------------------- |
+| [Sangeeta Jadoonanan](https://github.com/sjbitcode)                                               |
 
 ## Community
 

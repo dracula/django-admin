@@ -4,13 +4,11 @@
 
 ![Screenshot](https://github.com/sjbitcode/django-admin-dracula/blob/main/screenshot.png?raw=true)
 
-
 ## 🦇 Dark Theme
 
 ![Dark theme - Admin homepage](https://github.com/sjbitcode/django-admin-dracula/blob/main/screenshots/dark-homepage.png?raw=true)
 
 ![Dark theme - Users homepage](https://github.com/sjbitcode/django-admin-dracula/blob/main/screenshots/dark-userspage.png?raw=true)
-
 
 ## 🕯️ Light Theme
 
