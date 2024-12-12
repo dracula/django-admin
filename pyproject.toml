@@ -39,9 +39,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sjbitcode/django-admin-dracula"
-Repository = "https://github.com/sjbitcode/django-admin-dracula"
-Issues = "https://github.com/sjbitcode/django-admin-dracula/issues"
+Homepage = "https://github.com/dracula/django-admin"
+Repository = "https://github.com/dracula/django-admin"
+Issues = "https://github.com/dracula/django-admin/issues"
 
 [tool.uv]
 dev-dependencies = [
