@@ -2,7 +2,7 @@
 
 > A dark (and light 🕯️) theme for the [Django Admin](https://docs.djangoproject.com/en/stable/ref/contrib/admin/).
 
-![Screenshot](https://github.com/sjbitcode/django-admin-dracula/blob/main/screenshot.png?raw=true)
+![Screenshot](https://github.com/dracula/django-admin/blob/main/screenshot.png?raw=true)
 
 ![PyPI](https://img.shields.io/pypi/v/django-admin-dracula?&color=%23bd93f9)
 ![PyPI downloads](https://img.shields.io/pypi/dm/django-admin-dracula?color=%23ff79c6)
@@ -37,7 +37,7 @@ Put on your favorite dracula cape and dump all your remaining garlic! 🧄
 
 ## Themes
 
-Check out some more screenshots of the light and dark themes [here](https://github.com/sjbitcode/django-admin-dracula/blob/main/THEMES.md)!
+Check out some more screenshots of the light and dark themes [here](https://github.com/dracula/django-admin/blob/main/THEMES.md)!
 
 ## Team
 
